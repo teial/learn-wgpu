@@ -1,0 +1,10 @@
+# Devenv files
+.devenv/
+.direnv/
+.envrc
+.devenv.flake.nix
+
+# Rust stuff
+target/
+pkg/
+static/
